@@ -1,0 +1,719 @@
+[33mcommit 02e2bf5367b32220a5f3a2d524fa49f6ecc9d0f0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: kwy007 <kwy007@gmail.com>
+Date:   Sat Jun 21 12:03:08 2025 +0900
+
+    ass workflow
+
+[33mcommit 99f34c3fbe093e3c12e3926bf4a1a9a723cd448b[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dangtong byun <dbyun@dangtongui-MacBookPro.local>
+Date:   Sat Jun 14 10:16:22 2025 +0900
+
+    delete
+
+[33mcommit 786c2815b3632e4de1e8d341fa263f1ee67299c0[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 14:41:03 2025 +0900
+
+    add pro workflow
+
+[33mcommit b295235e8f48bbb19cf9df0bbeb5be08dc6ce382[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 13:19:20 2025 +0900
+
+    good
+
+[33mcommit 5fcd71b6f2e50a1d0c1da699bc47b03b52d96025[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 13:14:59 2025 +0900
+
+    good
+
+[33mcommit f170e753d53b1440f0ccbb4306300b3b780ef8d4[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 13:11:33 2025 +0900
+
+    good
+
+[33mcommit 02597b6aa0cc3764d23a5f4063fc8ddbe71bb617[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 12:48:59 2025 +0900
+
+    add smart
+
+[33mcommit 8db2d4fe975fcd2024201760d17719181b24dd39[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 11:51:59 2025 +0900
+
+    add workflow
+
+[33mcommit 2d0839bade9cb9c4dafb62f3b5ff2dff3fcb26bb[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 15 11:26:03 2025 +0900
+
+    add terraform code
+
+[33mcommit 1f71eb70edd71c38bee6cba13a803a896c679ac0[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Mar 8 06:27:25 2025 +0900
+
+    init
+
+[33mcommit 13d6d6812b8e40549d295114ecdc63f5458f26c0[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 23 17:00:42 2024 +0900
+
+    good
+
+[33mcommit 0c7ea2308e9067ddce47a9cff0c8abc89bc60b54[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 23 16:57:57 2024 +0900
+
+    good
+
+[33mcommit fc5bfc7f273b8700293543f66213935d83a967be[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 23 16:49:17 2024 +0900
+
+    init
+
+[33mcommit eb6d097721164cfa3f5e2520820795597026b593[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 23 16:47:58 2024 +0900
+
+    init
+
+[33mcommit ac2f49037fca3f16fd39ed3b98c3f1a079e2fc9a[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 17:13:44 2024 +0900
+
+    greate
+
+[33mcommit e8ffe263945aca4179952e70e42fdf0c407ea871[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 15:40:03 2024 +0900
+
+    add
+
+[33mcommit 5468c92b8cdcc0656d538d0a9f4b027c219da867[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 15:36:28 2024 +0900
+
+    add
+
+[33mcommit edaa51519489be609acd8a15f6612171a35e647f[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 15:04:26 2024 +0900
+
+    add smart
+
+[33mcommit 95aeacfe2fb8a366b8d9e574b248c2bea2dab864[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 14:40:45 2024 +0900
+
+    change index.html
+
+[33mcommit 9b07503205e2e3179fd1f5e13b202f9e8bc06897[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 14:22:59 2024 +0900
+
+    add restart
+
+[33mcommit f165a31e6517a682534f85ad5856d870a2856f88[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:58:47 2024 +0900
+
+    correct
+
+[33mcommit 299ff112896e37ca80e5070a28f45015679a9c98[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:57:27 2024 +0900
+
+    error
+
+[33mcommit 9c128cf7ced1c52063fa51b9e07b5d157af96bcb[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:51:49 2024 +0900
+
+    add run
+
+[33mcommit 41df848cf9dcb03dc438d7d80f923d2e6a9853d3[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:51:02 2024 +0900
+
+    add copy
+
+[33mcommit b494ee87f36762ec05e7d26b8a0d1d987b24de36[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:46:44 2024 +0900
+
+    cmd
+
+[33mcommit 7dd0d049a126188f90ed4e9534f81fa875386e96[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:38:57 2024 +0900
+
+    add colon
+
+[33mcommit 5c1a5d559621af1aa77a7e372bbafaa07d9e68be[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 13:36:20 2024 +0900
+
+    add workflow
+
+[33mcommit 74bf43265f6d9907d464dad2e753870160eea3bb[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:54:15 2024 +0900
+
+    masking
+
+[33mcommit ace9c6e1030c95b1965c84c4e4c7055914c29341[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:52:15 2024 +0900
+
+    outside log
+
+[33mcommit e47bb55485e6b6494fc6e426c3e07b302e7d80ee[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:50:59 2024 +0900
+
+    log group
+
+[33mcommit e51f83b71fa468e86623581a54835d160ae8f43d[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:48:19 2024 +0900
+
+    debug
+
+[33mcommit 10f57178a82b3a9aab0abafda54188cad05a8abe[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:46:53 2024 +0900
+
+    test
+
+[33mcommit 7870c8c5d77e39f99377eb3065bc061aade665e0[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:45:15 2024 +0900
+
+    debug
+
+[33mcommit f886487b7bd8260d269e2c02ee1301527ec902d0[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:42:40 2024 +0900
+
+    test
+
+[33mcommit 952701ae5e9c8bc5beb78f9062af0aed8af64d92[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:40:35 2024 +0900
+
+    add error
+
+[33mcommit a7e799cf9f678bec4e8d87908f197a8facbf29d8[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:38:39 2024 +0900
+
+    add practice workflow
+
+[33mcommit c2862162ea1b2dc9159634b103955e81981426db[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:29:16 2024 +0900
+
+    add dependency
+
+[33mcommit 8c6af082e0b9521d941b0f67b5d39b43ec3a584e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:19:28 2024 +0900
+
+    add parallels
+
+[33mcommit fdf1c52b394689bbd026ab08c0b81406277dff8a[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 10:10:07 2024 +0900
+
+    test
+
+[33mcommit 1eedab41340e1b355145b9d8a7a4d05d6bdfa3bb[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 08:52:10 2024 +0900
+
+    delete xinfra
+
+[33mcommit a2b67e54de06cd31ec008a575e89bbe792757683[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 9 08:49:51 2024 +0900
+
+    delete workflow
+
+[33mcommit a7ba02ff60b283e07ad6989e4171825eb2db17fe[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:20:47 2024 +0900
+
+    add expression
+
+[33mcommit 7f6cac1bed48d92ad8fc9980595ef7760ce6c3f8[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:17:22 2024 +0900
+
+    add expression
+
+[33mcommit 190e9094f7e598e0f2094f6a58a0232e3239bb33[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:16:32 2024 +0900
+
+    add expression
+
+[33mcommit 671bbdc4cb6fa572e69e38eb4c37c67b01cc6a6e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:15:22 2024 +0900
+
+    add expression
+
+[33mcommit ef70180b9c9818b23e4f20a07c9622fabf064f14[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:14:17 2024 +0900
+
+    add expression
+
+[33mcommit ac71a5c29aed6dd6176b7530d61c2f1b6ba2875c[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:09:48 2024 +0900
+
+    add expression
+
+[33mcommit c98e95e6d80a41ff6e0dd05c6e489e18fff9b012[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 17:08:29 2024 +0900
+
+    add expression
+
+[33mcommit 1923888d33fbbd0381f46722a45abd16d845872d[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 15:49:00 2024 +0900
+
+    add expression
+
+[33mcommit 3f8928221f57249d2389e28c98deb94df3eefece[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 15:32:50 2024 +0900
+
+    add expression
+
+[33mcommit 11a2090858abe40f83eb6df470479ce72f41a8b8[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 15:23:13 2024 +0900
+
+    add expression
+
+[33mcommit 433d84b322b9e71c5c48be1fd22266fa08540d4d[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 15:20:50 2024 +0900
+
+    add expression
+
+[33mcommit 3852c16bc18c40600e41bf49a8504abc2e702f56[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 11:53:20 2024 +0900
+
+    add asc
+
+[33mcommit a534899c8925464141f1db63de0e5bc0f994649d[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 8 11:52:41 2024 +0900
+
+    Create snyk-security.yml
+
+[33mcommit 1731e1f4f57177e27e7fbdf3c63db551162d09f9[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 23:53:05 2024 +0900
+
+    add asc
+
+[33mcommit c83593b9f90f255874a856a1e7e6a91e353b09cf[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 23:50:58 2024 +0900
+
+    add asc
+
+[33mcommit 1c8691f52f6d11f026043ac7bbd61c58d44aa6af[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 23:48:17 2024 +0900
+
+    add asc
+
+[33mcommit e758fb142bcd89f353008c9b2f6566b353f2af44[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 23:27:02 2024 +0900
+
+    add asc
+
+[33mcommit aa0fde926de310ec4d7567ea863704210e577bbd[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 23:17:32 2024 +0900
+
+    add asc
+
+[33mcommit e52a80878fdafaa1dda91def679076dceb27c3d8[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 23:15:16 2024 +0900
+
+    add asc
+
+[33mcommit 988d9e4dde082d5f188e5f94a1add8a4cbceffb6[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 19:08:57 2024 +0900
+
+    complete single ec2 instance
+
+[33mcommit e97d16516440c48f1254a0aed16735570cd58faf[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 19:06:10 2024 +0900
+
+    test
+
+[33mcommit 55563d992eb7a57032670ecb859f96c22709d96d[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 18:59:20 2024 +0900
+
+    test
+
+[33mcommit dcee1a9c3b5ef9acbf89b562aa55622d317f08c4[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Nov 7 18:41:18 2024 +0900
+
+    test
+
+[33mcommit 3fc3308a2c19cab1a29e4a10134d003519de42fa[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sun Nov 3 22:18:43 2024 +0900
+
+    test
+
+[33mcommit 09ce2bd129a09728d85e8294336ae7c7aad634cd[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sun Nov 3 20:22:49 2024 +0900
+
+    test
+
+[33mcommit 700ccaaf00dacf64e074abf2b913178091ffc8fc[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sun Nov 3 20:20:57 2024 +0900
+
+    test
+
+[33mcommit 8da792e0dc3deb655aec39cbf84d3e8311820f4e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 07:26:11 2024 +0900
+
+    ddd
+
+[33mcommit 2fbfeebac82779fba026b58456cf9cae410c17dd[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 06:27:15 2024 +0900
+
+    ddd
+
+[33mcommit c74446d740270ec01b296def49f9d095bea64285[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 06:12:46 2024 +0900
+
+    ddd
+
+[33mcommit 96f7a75994899a708cd3d438bbc23ffb27470612[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 06:10:49 2024 +0900
+
+    ddd
+
+[33mcommit f6eb70efd1bc7ad41e14d580489bcdb399a16447[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 06:09:10 2024 +0900
+
+    ddd
+
+[33mcommit 0d1bf9fa2eadbfc202dc7b0ccb02d021761ad440[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 06:03:14 2024 +0900
+
+    ddd
+
+[33mcommit 758ec851604285e27c1d8ac3abdfa3e2476722d2[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 06:01:12 2024 +0900
+
+    ddd
+
+[33mcommit 91a7e041f603ab3b557dc1972088541b14c97967[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 05:58:18 2024 +0900
+
+    ddd
+
+[33mcommit 9c744b739deaf76609271b4125ec05b893de2fcd[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 05:54:28 2024 +0900
+
+    ddd
+
+[33mcommit ed312204781a8ece1af097af6b045ce78be21af9[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 05:50:57 2024 +0900
+
+    ddd
+
+[33mcommit 374fa05a86451d306efdd51388699572db4aabd7[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 05:49:41 2024 +0900
+
+    ddd
+
+[33mcommit 07998e200eff63ba0f96d0759b7675611f4249b5[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 05:37:30 2024 +0900
+
+    ddd
+
+[33mcommit d64b8f3722f7470db7d8375433683d883c63577e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 00:47:34 2024 +0900
+
+    ddd
+
+[33mcommit 3bd6f2f9f7120603ad129e9c029eb241f27f4b7e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 00:46:44 2024 +0900
+
+    ddd
+
+[33mcommit 9bbe9c073be132556128a309d4c6986c003be7f9[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 00:45:16 2024 +0900
+
+    ddd
+
+[33mcommit 636d36790a0d6dd1bae8b13c906840cad122fdce[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Nov 2 00:44:46 2024 +0900
+
+    ddd
+
+[33mcommit 877979e2f58ae93434c1f31bb6c4cbf895fa6a02[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 22:51:42 2024 +0900
+
+    ddd
+
+[33mcommit f95f809450c26009bc18a80815c9c37082763abd[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 22:48:42 2024 +0900
+
+    ddd
+
+[33mcommit e8860cc8190a3f007c145d4c8f059e3894cb2e17[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 22:45:41 2024 +0900
+
+    ddd
+
+[33mcommit fa0341b860b805a796f496540152000b57f7a99f[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 22:37:09 2024 +0900
+
+    ddd
+
+[33mcommit 5f2b76a62aee42714f32a6ca9dc28c8aaa070a09[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 22:36:12 2024 +0900
+
+    ddd
+
+[33mcommit a003dee3d550d63f894aab65e131e2695dd6e902[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 21:59:38 2024 +0900
+
+    ddd
+
+[33mcommit 4f78dcfb31617ad6d78978959ba05578d97c997e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 21:53:34 2024 +0900
+
+    ddd
+
+[33mcommit 81c99c2d3f93fa83e26c8985fc2f89500bb649ba[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 21:52:51 2024 +0900
+
+    ddd
+
+[33mcommit f8b1080315f2276eed63d2d904653eeb624479fa[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 21:50:17 2024 +0900
+
+    ddd
+
+[33mcommit 57cb9e16dd81fe53b3ac5fdb4c698e05a2b8454b[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 21:14:24 2024 +0900
+
+    ddd
+
+[33mcommit 9170714db96d7ca6482f705f686c64c262b61ae5[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 21:10:48 2024 +0900
+
+    good
+
+[33mcommit e10be11f79575ace9b9f48906b92861df3040a4e[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 20:41:39 2024 +0900
+
+    good
+
+[33mcommit aac5188c6f4914157f603708e80ba9c998e09c43[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 20:40:59 2024 +0900
+
+    good
+
+[33mcommit 2c271579157ecd7fc281a0bb1b501a96dea38509[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 20:39:11 2024 +0900
+
+    good
+
+[33mcommit aea8393a3039798f45a3db4958125a7a8ca47fe8[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 20:00:19 2024 +0900
+
+    new init
+
+[33mcommit d4278f41ca80cda4365d12d5616782d2df6930ba[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 19:24:19 2024 +0900
+
+    ddd
+
+[33mcommit 0098c763f6b10c41113d3480aed058a22919723a[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 19:23:25 2024 +0900
+
+    ddd
+
+[33mcommit 8ca7bd6edac5b141591833391c4a487c1c687bfa[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 18:16:03 2024 +0900
+
+    ddd
+
+[33mcommit 379c1b99721a4ad85b75f5f6ef8761fae0cefc1c[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 18:12:50 2024 +0900
+
+    ddd
+
+[33mcommit 8e56b6166c7150c92247539820759c64efb232e9[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 18:09:11 2024 +0900
+
+    ddd
+
+[33mcommit fb0cd1181d4263afbb5f94435152356e8bc1240f[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 18:04:18 2024 +0900
+
+    ddd
+
+[33mcommit 3dfbc684e197c7beb1568b89d9ac1844d56fce99[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 18:02:49 2024 +0900
+
+    ddd
+
+[33mcommit e73b51643e4dcc2ff62af43c2154b7e848e0c5a7[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 17:58:56 2024 +0900
+
+    ddd
+
+[33mcommit 58a75fed7ef964c0d7c7b084d237388f4250a7ba[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 17:52:42 2024 +0900
+
+    test
+
+[33mcommit ea7d11e3dc661160d30ac0ab06f00c6a48700e80[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 17:46:26 2024 +0900
+
+    test
+
+[33mcommit 8ce7fc75acd3c84cfe50644b5a3edd69950139ac[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 17:15:54 2024 +0900
+
+    good
+
+[33mcommit 2c777b2096abcfadb0fdba3b7c5bc5b393110861[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 17:03:25 2024 +0900
+
+    good
+
+[33mcommit 7b39340864ae4fa7b543c09aa39d0e50fe5f9c2b[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 17:01:04 2024 +0900
+
+    good
+
+[33mcommit 4f7886274cc7a747786cd646ee17009239ca0acf[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:56:57 2024 +0900
+
+    good
+
+[33mcommit 417d183357074fa2e189f6e3f6887fd79b1134dd[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:54:00 2024 +0900
+
+    good
+
+[33mcommit d8c0de6f182ac6f7f47abd29ab83b33072c0666d[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:53:00 2024 +0900
+
+    good
+
+[33mcommit be306c2f060a20636adef8aabb871d41b6a80ca6[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:50:35 2024 +0900
+
+    good
+
+[33mcommit fdf320e0f1d17dbe9f86ffce6d9cbd8a5189ae02[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:24:38 2024 +0900
+
+    add workflow
+
+[33mcommit 3e1603eefc797f001c020e8d265b81727aca36c4[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:24:18 2024 +0900
+
+    workflwo
+
+[33mcommit a2eac510d3a29d21f2f10e89e0a550b60c6732fc[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Fri Nov 1 16:13:50 2024 +0900
+
+    add tf
+
+[33mcommit 8d9824bf2e3251ef408cb16c0fc3b36729fd067f[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Thu Oct 31 11:58:09 2024 +0900
+
+    test
+
+[33mcommit 4c3ee6b75facaa7cc8a3b2be2ee6c495e8bd3f42[m
+Author: dangtong76 <dangtong@gmail.com>
+Date:   Sat Oct 26 00:14:30 2024 +0900
+
+    first commit
